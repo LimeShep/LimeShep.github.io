@@ -1,5 +1,9 @@
+* {
+    font-family: Calibri;
+}
+
 table {
-    margin: 0px;
+    margin: 5px;
     text-align: center;
     width: 30dvw;
     height: 15dvh;
@@ -18,7 +22,18 @@ tr, td {
     padding: 5px;
 }
 
+.soft-marked {
+    background-color: #EAF2DD;
+}
+
+.medium-marked {
+    background-color: #D7E3BD;
+}
 
 .marked {
-    background-color: lime;
+    background-color: #C2D69B;
+}
+
+body {
+    display: flex;
 }
