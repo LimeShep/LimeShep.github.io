@@ -1,0 +1,12 @@
+img {
+    height: 10dvh;
+}
+
+td {
+    margin: auto;
+    text-align: center;
+}
+
+table {
+    border: 1px solid black;
+}
